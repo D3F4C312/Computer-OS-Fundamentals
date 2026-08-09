@@ -1,2 +1,4 @@
 # Computer-OS-Fundamentals
-Understand what an OS actually does
+1. Understand what an OS actually does
+
+
